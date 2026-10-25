@@ -1,6 +1,6 @@
 # PowerPlan
 
-简体中文 | [English](README.en.md)
+简体中文 | [繁體中文](README.zh-Hant.md) | [English](README.en.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md)
 
 > [!IMPORTANT]
 > 注意：PowerPlan 已迁移至 <https://github.com/BlazeSnow/PowerPlan.Rust>
